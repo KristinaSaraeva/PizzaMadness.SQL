@@ -1,0 +1,16 @@
+id,name,age,gender,address
+1,Anna,16,female,Moscow
+2,Andrey,21,male,Moscow
+3,Kate,33,female,Kazan
+4,Denis,13,male,Kazan
+5,Elvira,45,female,Kazan
+6,Irina,21,female,Saint-Petersburg
+7,Peter,24,male,Saint-Petersburg
+8,Nataly,30,female,Novosibirsk
+9,Dmitriy,18,male,Samara
+10,Viktoria,28,female,Omsk
+11,Alexey,32,male,Omsk
+12,Svetlana,29,female,Chelyabinsk
+13,Mikhail,34,male,Ufa
+14,Yulia,27,female,Krasnoyarsk
+15,Sergey,31,male,Perm
